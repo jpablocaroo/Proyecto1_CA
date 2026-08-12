@@ -19,7 +19,7 @@ st.write("Vector de tu fruta:", fruta_usuario)
 manzana = [170, 7.0, 7]
 banano = [120, 5.0, 9]
 naranja = [200, 8.0, 6]
-pera = [150, 5.0, 4]
+pera = [150, 6.0, 4]
 
 # Calculamos las distancias
 
